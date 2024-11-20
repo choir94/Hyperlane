@@ -8,7 +8,8 @@ Ensure the following system requirements are met:
 - Ubuntu-based operating system
 - User with root or sudo privileges
 - Internet connection for downloading dependencies
-
+- Fee Eth Base Mainnet
+- RPC Base Url on Alchemy
 ---
 
 ## Installation Steps
@@ -16,4 +17,8 @@ Ensure the following system requirements are met:
 1. **Download the Script**
    ```bash
    LOADING
+   ```
+2. Cek Logs
+   ```bash
+   docker logs -f hyperlane
    ```
