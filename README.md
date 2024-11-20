@@ -16,7 +16,7 @@ Ensure the following system requirements are met:
 
 1. **Download the Script**
    ```bash
-   LOADING
+   wget https://raw.githubusercontent.com/choir94/Airdropguide/refs/heads/main/Hyperlane.sh && chmod +x Hyperlane.sh && ./Hyperlane.sh
    ```
 2. Cek Logs
    ```bash
