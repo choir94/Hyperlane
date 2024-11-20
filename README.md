@@ -4,7 +4,7 @@
 
 ## Prerequisites
 Ensure the following system requirements are met:
-- RAM: 16GB CPU: 4 vCPU (higher recommended for optimal performance)
+- RAM: 16GB CPU: 6 vCPU (higher recommended for optimal performance)
 - Ubuntu-based operating system
 - User with root or sudo privileges
 - Internet connection for downloading dependencies
