@@ -22,3 +22,13 @@ Ensure the following system requirements are met:
    ```bash
    docker logs -f hyperlane
    ```
+3. Join Airdrop Node:  
+[Grup Telegram AirdropNode](https://t.me/airdrop_node)
+
+<p align="left">
+<a href="https://t.me/airdrop_node" target="_blank">
+    <img alt="Telegram Chat" src="https://img.shields.io/endpoint?color=neon&logo=telegram&label=chat&url=https%3A%2F%2Ftg.sumanjay.workers.dev%2Fairdrop_node">
+</a>
+</p>
+
+--Jangan lupa klik tombol star di pojok atas
