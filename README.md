@@ -24,6 +24,8 @@ Ensure the following system requirements are met:
    ```
 3. Join Airdrop Node:  
 [Grup Telegram AirdropNode](https://t.me/airdrop_node)
+4. Support
+https://trakteer.id/AirdropNode/tip
 
 <p align="left">
 <a href="https://t.me/airdrop_node" target="_blank">
