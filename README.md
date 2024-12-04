@@ -14,15 +14,20 @@ Ensure the following system requirements are met:
 
 ## Installation Steps
 
-1. **Download the Script**
+1. **Create New Wallet**
    ```bash
    wget https://raw.githubusercontent.com/choir94/Airdropguide/refs/heads/main/Hyperlane.sh && chmod +x Hyperlane.sh && ./Hyperlane.sh
    ```
-2. Cek Logs
+2. **Import Wallet**
+  ```bash
+  wget https://raw.githubusercontent.com/choir94/Airdropguide/refs/heads/main/Hpr.sh
+chmod +x Hpr.sh
+  ```
+3. Cek Logs
    ```bash
    docker logs -f hyperlane
    ```
-3. Join Airdrop Node:  
+4. Join Airdrop Node:  
 [Grup Telegram AirdropNode](https://t.me/airdrop_node)
 4. Support
 https://trakteer.id/AirdropNode/tip
