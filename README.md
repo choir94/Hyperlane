@@ -20,8 +20,7 @@ Ensure the following system requirements are met:
    ```
 2. **Import Wallet**
   ```bash
-  wget https://raw.githubusercontent.com/choir94/Airdropguide/refs/heads/main/Hpr.sh
-chmod +x Hpr.sh
+  wget https://raw.githubusercontent.com/choir94/Airdropguide/main/Hpr.sh && chmod +x Hpr.sh && ./Hpr.sh
   ```
 3. Cek Logs
    ```bash
@@ -29,6 +28,7 @@ chmod +x Hpr.sh
    ```
 4. Join Airdrop Node:  
 [Grup Telegram AirdropNode](https://t.me/airdrop_node)
+
 4. Support
 https://trakteer.id/AirdropNode/tip
 
